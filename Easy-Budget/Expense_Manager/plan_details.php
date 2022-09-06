@@ -31,12 +31,12 @@
                                     <div class="col-xs-6">
                                         <strong>du</strong> <br>
                                         <input type="date" name="from" placeholder="dd/mm/yyyy"
-                                               min="2019-04-01" max="2030-04-20" required class="form-control form-group">
+                                               min="2000-04-01" max="2050-04-20" required class="form-control form-group">
                                     </div>
                                     <div class="col-xs-6">
                                         <strong>au</strong> <br>
                                         <input type="date" name="to" placeholder="dd/mm/yyyy" 
-                                               min="2019-04-01" max="2030-04-20" required class="form-control form-group">
+                                               min="2000-04-01" max="2050-04-20" required class="form-control form-group">
                                     </div>
                                 </div>
                                 <div class="row">
